@@ -1,0 +1,18 @@
+body {
+    background-image: url("Genz.png");
+    background-attachment: fixed;
+    right: 80px;
+    text-align: center;
+}
+
+html {
+    box-sizing: border-box;
+}
+h2 {
+    top: 50%;
+    right: 50%;
+}
+label {
+    size: large;
+    text-decoration: wavy;
+}
